@@ -1,1 +1,1 @@
-# RestNet50_for_SkinCancer
+# VGG19_for_SkinCancer diagnosis
