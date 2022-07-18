@@ -11,8 +11,8 @@ Lesion types included within the dataset:
 ```
 {
     'nv': 'Melanocytic nevi',
-    'mel': 'dermatofibroma',
-    'bkl': 'Benign keratosis-like lesions ',
+    'mel': 'melanoma',
+    'bkl': 'Benign keratosis',
     'bcc': 'Basal cell carcinoma',
     'akiec': 'Actinic keratoses',
     'vasc': 'Vascular lesions',
@@ -20,3 +20,11 @@ Lesion types included within the dataset:
 }
 ```
 
+*  **{nv} Melanocytic nevi**: Dry scaly patches of skin that have been damaged by the sun. The patches are not usually serious. But there's a small chance they could become skin cancer.
+*  **{mel} melanoma**: The most serious type of skin cancer.
+Melanoma occurs when the pigment-producing cells that give colour to the skin become cancerous.
+*  **{bkl} Bening Keratosis**: A non-cancerous skin condition that appears as a waxy brown, black or tan growth.
+* **{bcc} basal cell carcinoma**: A type of skin cancer that begins in the basal cells that rarely metastasizes but grows destructively if untreated.
+* **{akiec} Actinic keratoses**: variants of squamous cell carcinoma that can be treated locally without surgery. Some authors regard them as precursors of squamous cell carcinomas and not as actual carcinomas.
+* **{vasc} Vascular lesions**: Angiomas are dermatoscopically characterized by red or purple color and solid, well circumscribed structures known as red clods or lacunes.
+* **{df} Dermatofibroma**:  benign skin lesion regarded as either a benign proliferation or an inflammatory reaction to minimal trauma.
