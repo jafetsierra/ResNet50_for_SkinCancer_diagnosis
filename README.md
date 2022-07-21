@@ -5,7 +5,7 @@
 
 [See the paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6091241/)
 
-VGG19 model as feature straction for skin lesion classification.
+ResNet50 model as feature straction for skin lesion classification.
 
 
 
