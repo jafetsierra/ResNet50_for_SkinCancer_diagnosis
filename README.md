@@ -31,3 +31,6 @@ Melanoma occurs when the pigment-producing cells that give colour to the skin be
 * **{akiec} Actinic keratoses**: variants of squamous cell carcinoma that can be treated locally without surgery. Some authors regard them as precursors of squamous cell carcinomas and not as actual carcinomas.
 * **{vasc} Vascular lesions**: Angiomas are dermatoscopically characterized by red or purple color and solid, well circumscribed structures known as red clods or lacunes.
 * **{df} Dermatofibroma**:  benign skin lesion regarded as either a benign proliferation or an inflammatory reaction to minimal trauma.
+
+
+The model return an array with 7 probabilities each one for each class.
